@@ -8,6 +8,6 @@ public class Main {
         System.out.println(Double.MAX_VALUE);
         System.out.println(Float.MIN_VALUE) ;
         System.out.println(i1-l1);
-        System.out.println(f1);
+        System.out.println(b1);
     }
 }
